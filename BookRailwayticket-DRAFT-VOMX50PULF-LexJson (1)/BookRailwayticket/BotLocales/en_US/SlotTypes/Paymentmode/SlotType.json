@@ -1,0 +1,1 @@
+{"name":"Paymentmode","identifier":"MFIFVX82EM","description":null,"slotTypeValues":[{"synonyms":[{"value":"DEBIT"},{"value":"CREDIT"}],"sampleValue":{"value":"CARD"}},{"synonyms":[{"value":"GPAY PHONEPAY"}],"sampleValue":{"value":"UPI"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}
